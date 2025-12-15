@@ -1,0 +1,11 @@
+{
+  "name": "citlali-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Citlali AI website",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
